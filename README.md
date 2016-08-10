@@ -6,11 +6,23 @@ Helps validate the complexity of a string. It builds regular expressions based o
 
 Command Line
 
-    npm install complexity
+```sh
+    npm install complexity --save
+```
 
-Your Node .js files
+## Getting started
 
-    var complexity = require('complexity');
+### (es2015)
+
+```js
+    const complexity = require('string-complexity');
+```
+
+### (es6)
+```js
+   import complexity from 'string-complexity';
+```
+
 
 ## Use ##
 
