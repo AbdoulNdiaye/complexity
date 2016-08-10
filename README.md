@@ -1,4 +1,4 @@
-# Complexity #
+# String Complexity #
 
 Helps validate the complexity of a string. It builds regular expressions based on common settings for passwords, usernames, and other user identification methods
 
@@ -7,7 +7,7 @@ Helps validate the complexity of a string. It builds regular expressions based o
 Command Line
 
 ```sh
-    npm install complexity --save
+    npm install string-complexity --save
 ```
 
 ## Getting started
