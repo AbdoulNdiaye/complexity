@@ -1,5 +1,7 @@
 # String Complexity #
 
+[![Build Status](https://travis-ci.org/AbdoulNdiaye/string-complexity.svg?branch=master)](https://travis-ci.org/AbdoulNdiaye/string-complexity)
+
 Helps validate the complexity of a string. It builds regular expressions based on common settings for passwords, usernames, and other user identification methods
 
 ## Install ##
