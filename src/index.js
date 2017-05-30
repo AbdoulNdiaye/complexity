@@ -2,7 +2,7 @@
 
 const regexOptions = {
   uppercase: '.*[A-Z]',
-  special: '.*[!@#$&*]',
+  special: '.*[ !"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~]',
   digit: '.*[0-9]',
   lowercase: '.*[a-z]',
   upperLower: '.*[a-zA-Z]',
